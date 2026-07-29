@@ -1,0 +1,6 @@
+{
+  "name": "venteg",
+  "description": "একটি সহজ ও চমৎকার অ্যাডমিন ড্যাশবোর্ড এবং কাস্টমার অর্ডার ট্র্যাকিং প্যানেল বিশিষ্ট অ্যাপ্লিকেশন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

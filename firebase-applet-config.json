@@ -1,0 +1,10 @@
+{
+  "projectId": "venteg",
+  "appId": "1:286335833550:web:76dea2fd643b39dced079f",
+  "apiKey": "AIzaSyDHanhcy5-MMPxnNzJZ_F8nXRPQZN1_Ekc",
+  "authDomain": "venteg.firebaseapp.com",
+  "databaseURL": "https://venteg-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "storageBucket": "venteg.firebasestorage.app",
+  "messagingSenderId": "286335833550",
+  "measurementId": "G-NYESSXT5R5"
+}
