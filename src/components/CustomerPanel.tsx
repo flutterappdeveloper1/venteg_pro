@@ -238,7 +238,7 @@ export default function CustomerPanel({ products, orders, onPlaceOrder, currentU
             
             {/* Get App Option */}
             <a
-              href="https://drive.google.com/file/d/187r-DMkQCJQEZSeQkM_rvLx8FPhlAjEo/view?usp=sharing"
+              href="https://drive.google.com/file/d/1-jaXhada0woci3GpMfVbbKtJW7dKh13w/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 rounded-xl text-xs font-bold transition-all duration-200 bg-white/15 hover:bg-white/25 text-white flex items-center gap-1.5 border border-white/10 cursor-pointer hover:scale-[1.02] active:scale-95 shadow-2xs"
